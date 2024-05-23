@@ -22,7 +22,7 @@ _G.AutoHealth = True
 --Função
 function AutoHealth()
 while _G.AutoHealth == true do
-ocal args = {
+local args = {
     [1] = "GiveHealthCuzPro",
     [2] = 2,
     [3] = 1
@@ -176,7 +176,7 @@ _G.AutoVD = True
 --Função
 function AutoVD()
 while _G.AutoVD == true do
-ocal args = {
+local args = {
     [1] = "GiveHealthCuzPro",
     [2] = 2,
     [3] = 1
@@ -695,7 +695,7 @@ _G.AutoVD4 = True
 --Função
 function AutoVD4()
 while _G.AutoVD4 == true do
-ocal args = {
+local args = {
     [1] = "GiveHealthCuzPro",
     [2] = 2,
     [3] = 1
@@ -772,7 +772,7 @@ _G.AutoVD5 = True
 --Função
 function AutoVD5()
 while _G.AutoVD5 == true do
-ocal args = {
+local args = {
     [1] = "GiveHealthCuzPro",
     [2] = 2,
     [3] = 1
