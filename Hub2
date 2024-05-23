@@ -99,7 +99,7 @@ _G.AutoVida = True
 --Função
 function AutoVida()
 while _G.AutoVida == true do
-ocal args = {
+local args = {
     [1] = "GiveHealthCuzPro",
     [2] = 2,
     [3] = 1
