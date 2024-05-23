@@ -93,7 +93,6 @@ game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack
 wait(HAKAI_OFC)
 end
 end
-
 --Valor
 _G.AutoVida = True
 --Função
@@ -172,7 +171,6 @@ end
 end
 --Valor
 _G.AutoVD = True
-
 --Função
 function AutoVD()
 while _G.AutoVD == true do
@@ -249,7 +247,6 @@ end
 end
 --Valor
 _G.AutoVD2 = True
-
 --Função
 function AutoVD2()
 while _G.AutoVD2 == true do
@@ -466,7 +463,6 @@ end
 end
 --Valor
 _G.AutoVD3 = True
-
 --Função
 function AutoVD3()
 while _G.AutoVD3 == true do
@@ -691,7 +687,6 @@ end
 end
 --Valor
 _G.AutoVD4 = True
-
 --Função
 function AutoVD4()
 while _G.AutoVD4 == true do
